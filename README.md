@@ -1,1 +1,1 @@
-# VanishVox-terminal
+# VanishVox-Server
