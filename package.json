@@ -11,6 +11,7 @@
     "dev": "npx nodemon"
   },
   "dependencies": {
+    "redis": "^4.6.8",
     "socket.io": "^4.7.2"
   },
   "devDependencies": {
